@@ -1,1 +1,1 @@
-# DEPLOYED_LINK = https://octavision-responsive-task.netlify.app/about
+# DEPLOYED_LINK = https://onepage-navbar-responsive.netlify.app/
